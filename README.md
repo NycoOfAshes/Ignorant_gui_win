@@ -29,6 +29,12 @@ The win_amd64 version for windows
 
 ## Installation
 
+###download
+
+````
+git clone https://github.com/NycoOfAshes/Ignorant_gui_win
+````
+
 Juste place the buid folder where you want dans click on the exe file
 
 ## How to use
